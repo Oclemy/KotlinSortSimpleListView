@@ -1,6 +1,6 @@
 # Kotlin Android Simple ListView Sort
 
-View full tutorial here: http://camposha.info/android/custom-listview-pagination
+View full tutorial here: http://camposha.info/kotlin-android/listview-sort
 
 # Concepts.
 
@@ -26,8 +26,8 @@ like this.
 
 Here is the demo:
 
-![](/demo/demo1.PNG)
+![](/demo/demo1.png)
 
-![](/demo/demo2.PNG)
+![](/demo/demo2.png)
 
-![](/demo/demo3.PNG)
+![](/demo/demo3.png)
