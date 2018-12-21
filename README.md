@@ -28,6 +28,6 @@ Here is the demo:
 
 ![](/demo/demo1.PNG)
 
-![](/demo/demo2.PNG)
+![](/demo/demo2.png)
 
-![](/demo/demo3.PNG)
+![](/demo/demo3.png)
