@@ -1,6 +1,6 @@
 # Kotlin Android Simple ListView Sort
 
-View full tutorial here: http://camposha.info/kotlin-android/listview-sort
+View full tutorial at Camposha here: http://camposha.info/kotlin-android/listview-sort
 
 # Concepts.
 
